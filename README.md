@@ -7,7 +7,7 @@ This is a simple calendar application that allows a user to save events for each
 ## Tech 
 - HTML
 - CSS
-- Jacascript / JQuery 
+- Javascript / JQuery 
 
 ## User Story
 

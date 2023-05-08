@@ -32,3 +32,11 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+
+## 🔗 Links
+
+https://ashtonj7.github.io/day-planner/
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/62944042/236913822-d3035261-5d02-4ec1-89c8-db5076ddd3f6.png)

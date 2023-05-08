@@ -5,7 +5,9 @@
 This is a simple calendar application that allows a user to save events for each hour of the work day. 
 
 ## Tech 
-This app runs in the browser and uses dynamically updated HTML and CSS powered by jQuery.
+- HTML
+- CSS
+- Jacascript / JQuery 
 
 ## User Story
 

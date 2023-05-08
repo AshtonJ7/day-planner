@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple calendar application that allows a user to save events for each hour of the work day. 
+This is a simple calendar application that allows a user to save events for each hour of the work day. The user is able to save their event to local storage. The background colour of the application changes depending on what time of the day it is. 
 
 ## Tech 
 - HTML
